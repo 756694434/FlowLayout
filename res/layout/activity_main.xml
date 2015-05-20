@@ -1,0 +1,83 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <com.example.flowlayout.MyFlowLayout
+        android:id="@+id/myflowlayout"
+        android:layout_width="500dp"
+        android:layout_height="match_parent" 
+        android:layout_centerHorizontal="true"
+        >
+
+   <!--      <TextView
+            style="@style/text_flag_01"
+            android:text="Welcome" />
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="IT是什么" />
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="学习ing" />
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="我实现了吗" />
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="不知道" />
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="努力ing" />
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="I think i can dump" />
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="努力ing" />
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="努力ing" />
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="努力ing" />
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="努力ing" />
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="努力ing" />
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="努力ing" />
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="努力ing" />
+         <TextView
+            style="@style/text_flag_01"
+            android:text="努力ing" />
+          <TextView
+            style="@style/text_flag_01"
+            android:text="努力ing" />
+           <TextView
+            style="@style/text_flag_01"
+            android:text="努力ing" />
+            <TextView
+            style="@style/text_flag_01"
+            android:text="努力ing" /> -->
+    </com.example.flowlayout.MyFlowLayout>
+
+</RelativeLayout>
